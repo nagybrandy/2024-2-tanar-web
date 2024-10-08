@@ -96,6 +96,5 @@ function step() {
     requestAnimationFrame(step);
 }
 
-
 step();
 
